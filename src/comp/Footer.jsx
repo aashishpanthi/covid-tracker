@@ -1,5 +1,4 @@
 import React from 'react'
-import { BottomNavigationAction } from '@material-ui/core';
 
 const Footer = () => {
 	return (

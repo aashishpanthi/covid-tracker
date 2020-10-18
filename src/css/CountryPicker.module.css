@@ -2,3 +2,14 @@
 	width:100%;
 	margin-bottom: 30px !important;
 }
+
+.container{
+	width:80%;
+	text-align:left;
+}
+
+@media (max-width: 770px) {
+	.container{
+		width:90%;
+	}
+}
