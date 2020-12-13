@@ -1,1 +1,1 @@
-Get hosted site on: https://track-covid-news.netlify.app/
+Live demo on: https://track-covid-news.netlify.app/
